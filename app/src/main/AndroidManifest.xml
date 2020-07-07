@@ -18,7 +18,7 @@
         </activity>
 
         <service
-            android:name=".MyAccessibilityService"
+            android:name=".Spellcaster"
             android:label="@string/accessibility_service_label"
             android:permission="android.permission.BIND_ACCESSIBILITY_SERVICE">
             <meta-data
