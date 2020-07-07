@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">spellcaster</string>
+    <string name="accessibility_service_description">Spellcaster</string>
+    <string name="accessibility_service_label">Spellcaster</string>
+</resources>
