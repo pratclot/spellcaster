@@ -10,7 +10,7 @@ const val TAG = "Spellcaster Accessibility Service"
 val BANNED = arrayOf("dirty", "word", "not allowed")
 const val SAFE_WORD = "saint"
 
-class MyAccessibilityService : AccessibilityService() {
+class Spellcaster : AccessibilityService() {
     override fun onInterrupt() {}
 
     override fun onAccessibilityEvent(event: AccessibilityEvent) {
